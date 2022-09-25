@@ -1,0 +1,27 @@
+body {
+    background: url(imgs/c3e70657124046e5a9eb42b49f861042.jpg) no-repeat;
+}
+.register {
+  position: absolute;
+  top: 60%;
+  left: 60% ;
+}
+
+.register form .ntb {
+    width: 200px;
+    height: 40px;
+    border: 1px solid pink;
+}
+.register ul li {
+    margin-bottom: 30px;
+}
+.register ul li:last-child {
+    
+    margin-left: 35px;
+   
+}
+.register ul li:last-child input {
+    background-color: brown;
+    width: 60px;
+    height: 30px;
+}
